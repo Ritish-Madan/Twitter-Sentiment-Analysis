@@ -13,4 +13,4 @@ We have used various techniques to clean the data and by also taking too frequen
 
 Used the NLP, to lemmatize the words for better predictions and to clean the data efficiently.
 
-# If you feel like improving something, feel free to create a pull request. Any Issues? Do contact or create a issue ticket on GitHub and contribute to the world. :)
+**If you feel like improving something, feel free to create a pull request. Any Issues? Do contact or create a issue ticket on GitHub and contribute to the world. :)
